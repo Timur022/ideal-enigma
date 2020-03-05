@@ -53,8 +53,6 @@ while True:
                             group = b.text
                             with open('//home//timur//bot1//bo1//Rasp//' + date + '_' + group.replace(' ', '') + '.txt', 'w+') as f:
                                 f.write(element.text)
-                else:
-                    print(elem1.text)
         right.click()
         for i in range(1, 42):
             kd = driver.find_element_by_id(date_all[i])
@@ -82,7 +80,5 @@ while True:
                             group = b.text
                             with open('//home//timur//bot1//bo1//Rasp//' + date + '_' + group.replace(' ', '') + '.txt', 'w+') as f:
                                 f.write(element.text)
-                else:
-                    print(elem1.text)
         driver.close()
         temp = False

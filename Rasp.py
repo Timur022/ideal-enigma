@@ -73,10 +73,8 @@ for day in range(d, d + 14):
     if day == last + 1:
         for day1 in range(1, 14 - (i - d)):
             button_days[day1] = str(day1)
-            print(button_days[day1])
         break
     button_days[day2] = str(day)
-    print(button_days[day2])
 
 data = VkKeyboard(one_time=False)
 data.add_button(button_days[1], color=VkKeyboardColor.PRIMARY)
@@ -1894,7 +1892,6 @@ for event in longpoll.listen():
                      with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                            if f.readline() == groups[ri]:
                                    temp = groups[ri]
-                                   print(temp)
                                    break
             except FileNotFoundError:
                      vk.messages.send(
@@ -1928,7 +1925,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -1962,7 +1958,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -1996,7 +1991,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2030,7 +2024,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2064,7 +2057,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2098,7 +2090,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2132,7 +2123,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2166,7 +2156,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2200,7 +2189,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2234,7 +2222,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2268,7 +2255,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2302,7 +2288,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(
@@ -2336,7 +2321,6 @@ for event in longpoll.listen():
                               with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
-                                             print(temp)
                                              break
             except FileNotFoundError:
                           vk.messages.send(

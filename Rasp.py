@@ -8,7 +8,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 
 
-vk_session = vk_api.VkApi(token="b1945623ca2a690ea779f2756b2e0801c69de4ce8102fc49bef14cc35096134629f25c45800e6f5ff3add")
+vk_session = vk_api.VkApi(token="e2ea1be79721ff8ca20375322c2f996e376a28c0338fc228e64dc8cd2bbdf7cdeaad1ec9428ff0ad10fd6")
 i = 0
 m = ''
 k = 0

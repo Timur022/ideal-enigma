@@ -11,7 +11,7 @@ all_kalendar = ''
 mon = ''
 right = ''
 while True:
-    if temp == False and datetime.now().strftime('%T') == '15:48:00':
+    if temp == False and datetime.now().strftime('%T') == '16:00:00':
         temp = True
         driver = webdriver.Chrome('/home/ubuntu/bot1/bo1/jsn/chromedriver')
         driver.get('http://uc.osu.ru/asd.php')

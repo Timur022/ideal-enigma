@@ -13,7 +13,7 @@ right = ''
 while True:
     if temp == False and datetime.now().strftime('%T') == '16:00:00':
         temp = True
-        driver = webdriver.Chrome('/home/timur/bot1/bo1/jsn/chromedriver')
+        driver = webdriver.Chrome('/home/ubuntu/bot1/bo1/jsn/chromedriver')
         driver.get('http://uc.osu.ru/asd.php')
         date_all = {
             1: 'v1', 2: 'v2', 3: 'v3', 4: 'v4', 5: 'v5', 6: 'v6', 7: 'v7', 8: 'v8', 9: 'v9', 10: 'v10',

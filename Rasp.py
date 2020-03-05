@@ -395,7 +395,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[0])
           elif event.text == groups[1]:
                   if event.from_user:
@@ -405,7 +405,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[1])
           elif event.text == groups[2]:
                   if event.from_user:
@@ -415,7 +415,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[2])
           elif event.text == groups[3]:
                   if event.from_user:
@@ -425,7 +425,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[3])
           elif event.text == groups[4]:
                   if event.from_user:
@@ -435,7 +435,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[4])
           elif event.text == groups[5]:
                   if event.from_user:
@@ -445,7 +445,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[5])
           elif event.text == groups[6]:
                   if event.from_user:
@@ -455,7 +455,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[6])
           elif event.text == groups[7]:
                   if event.from_user:
@@ -465,7 +465,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[7])
           elif event.text == groups[8]:
                   if event.from_user:
@@ -475,7 +475,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[8])
           elif event.text == groups[9]:
                   if event.from_user:
@@ -485,7 +485,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[9])
           elif event.text == groups[10]:
                   if event.from_user:
@@ -495,7 +495,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[10])
           elif event.text == groups[11]:
                   if event.from_user:
@@ -505,7 +505,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[11])
           elif event.text == groups[12]:
                   if event.from_user:
@@ -515,7 +515,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[12])
           elif event.text == groups[13]:
                   if event.from_user:
@@ -525,7 +525,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[13])
           elif event.text == groups[14]:
                   if event.from_user:
@@ -535,7 +535,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[14])
           elif event.text == groups[15]:
                   if event.from_user:
@@ -545,7 +545,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[15])
           elif event.text == groups[16]:
                   if event.from_user:
@@ -555,7 +555,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[16])
           elif event.text == groups[17]:
                   if event.from_user:
@@ -565,7 +565,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[17])
           elif event.text == groups[18]:
                   if event.from_user:
@@ -575,7 +575,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[18])
           elif event.text == groups[19]:
                   if event.from_user:
@@ -585,7 +585,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[19])
           elif event.text == groups[20]:
                   if event.from_user:
@@ -595,7 +595,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[20])
           elif event.text == groups[21]:
                   if event.from_user:
@@ -605,7 +605,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[21])
           elif event.text == groups[22]:
                   if event.from_user:
@@ -615,7 +615,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[22])
           elif event.text == groups[23]:
                   if event.from_user:
@@ -625,7 +625,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[23])
           elif event.text == groups[24]:
                   if event.from_user:
@@ -635,7 +635,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[24])
           elif event.text == groups[25]:
                   if event.from_user:
@@ -645,7 +645,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[25])
           elif event.text == groups[26]:
                   if event.from_user:
@@ -655,7 +655,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[26])
           elif event.text == groups[27]:
                   if event.from_user:
@@ -665,7 +665,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[27])
           elif event.text == groups[28]:
                   if event.from_user:
@@ -675,7 +675,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[28])
           elif event.text == groups[29]:
                   if event.from_user:
@@ -685,7 +685,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[29])
           elif event.text == groups[30]:
                   if event.from_user:
@@ -695,7 +695,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[30])
           elif event.text == groups[31]:
                   if event.from_user:
@@ -705,7 +705,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[31])
           elif event.text == groups[32]:
                   if event.from_user:
@@ -715,7 +715,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[32])
           elif event.text == groups[33]:
                   if event.from_user:
@@ -725,7 +725,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[33])
           elif event.text == groups[34]:
                   if event.from_user:
@@ -735,7 +735,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[34])
           elif event.text == groups[35]:
                   if event.from_user:
@@ -745,7 +745,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[35])
           elif event.text == groups[36]:
                   if event.from_user:
@@ -755,7 +755,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[36])
           elif event.text == groups[37]:
                   if event.from_user:
@@ -765,7 +765,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[37])
           elif event.text == groups[38]:
                   if event.from_user:
@@ -775,7 +775,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[38])
           elif event.text == groups[39]:
                   if event.from_user:
@@ -785,7 +785,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[39])
           elif event.text == groups[40]:
                   if event.from_user:
@@ -795,7 +795,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[40])
           elif event.text == groups[41]:
                   if event.from_user:
@@ -805,7 +805,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[41])
           elif event.text == groups[42]:
                   if event.from_user:
@@ -815,7 +815,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[42])
           elif event.text == groups[43]:
                   if event.from_user:
@@ -825,7 +825,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[43])
           elif event.text == groups[44]:
                   if event.from_user:
@@ -835,7 +835,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[44])
           elif event.text == groups[45]:
                   if event.from_user:
@@ -845,7 +845,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[45])
           elif event.text == groups[46]:
                   if event.from_user:
@@ -855,7 +855,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[46])
           elif event.text == groups[47]:
                   if event.from_user:
@@ -865,7 +865,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[47])
           elif event.text == groups[48]:
                   if event.from_user:
@@ -875,7 +875,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[48])
           elif event.text == groups[49]:
                   if event.from_user:
@@ -885,7 +885,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[49])
           elif event.text == groups[50]:
                   if event.from_user:
@@ -895,7 +895,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[50])
           elif event.text == groups[51]:
                   if event.from_user:
@@ -905,7 +905,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[51])
           elif event.text == groups[52]:
                   if event.from_user:
@@ -915,7 +915,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[52])
           elif event.text == groups[53]:
                   if event.from_user:
@@ -925,7 +925,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[53])
           elif event.text == groups[54]:
                   if event.from_user:
@@ -935,7 +935,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[54])
           elif event.text == groups[55]:
                   if event.from_user:
@@ -945,7 +945,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[55])
           elif event.text == groups[56]:
                   if event.from_user:
@@ -955,7 +955,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[56])
           elif event.text == groups[57]:
                   if event.from_user:
@@ -965,7 +965,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[57])
           elif event.text == groups[58]:
                   if event.from_user:
@@ -975,7 +975,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[58])
           elif event.text == groups[59]:
                   if event.from_user:
@@ -985,7 +985,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[59])
           elif event.text == groups[60]:
                   if event.from_user:
@@ -995,7 +995,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[60])
           elif event.text == groups[61]:
                   if event.from_user:
@@ -1005,7 +1005,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[61])
           elif event.text == groups[62]:
                   if event.from_user:
@@ -1015,7 +1015,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[62])
           elif event.text == groups[63]:
                   if event.from_user:
@@ -1025,7 +1025,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[63])
           elif event.text == groups[64]:
                   if event.from_user:
@@ -1035,7 +1035,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[64])
           elif event.text == groups[65]:
                   if event.from_user:
@@ -1045,7 +1045,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[65])
           elif event.text == groups[66]:
                   if event.from_user:
@@ -1055,7 +1055,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[66])
           elif event.text == groups[67]:
                   if event.from_user:
@@ -1065,7 +1065,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[67])
           elif event.text == groups[68]:
                   if event.from_user:
@@ -1075,7 +1075,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[68])
           elif event.text == groups[69]:
                   if event.from_user:
@@ -1085,7 +1085,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[69])
           elif event.text == groups[70]:
                   if event.from_user:
@@ -1095,7 +1095,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[70])
           elif event.text == groups[71]:
                   if event.from_user:
@@ -1105,7 +1105,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[71])
           elif event.text == groups[72]:
                   if event.from_user:
@@ -1115,7 +1115,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[72])
           elif event.text == groups[73]:
                   if event.from_user:
@@ -1125,7 +1125,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[73])
           elif event.text == groups[74]:
                   if event.from_user:
@@ -1135,7 +1135,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[74])
           elif event.text == groups[75]:
                   if event.from_user:
@@ -1145,7 +1145,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[75])
           elif event.text == groups[76]:
                   if event.from_user:
@@ -1155,7 +1155,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[76])
           elif event.text == groups[77]:
                   if event.from_user:
@@ -1165,7 +1165,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[77])
           elif event.text == groups[78]:
                   if event.from_user:
@@ -1175,7 +1175,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[78])
           elif event.text == groups[79]:
                   if event.from_user:
@@ -1185,7 +1185,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[79])
           elif event.text == groups[80]:
                   if event.from_user:
@@ -1195,7 +1195,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[80])
           elif event.text == groups[81]:
                   if event.from_user:
@@ -1205,7 +1205,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[81])
           elif event.text == groups[82]:
                   if event.from_user:
@@ -1215,7 +1215,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[82])
           elif event.text == groups[83]:
                   if event.from_user:
@@ -1225,7 +1225,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[83])
           elif event.text == groups[84]:
                   if event.from_user:
@@ -1235,7 +1235,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[84])
           elif event.text == groups[85]:
                   if event.from_user:
@@ -1245,7 +1245,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[85])
           elif event.text == groups[86]:
                   if event.from_user:
@@ -1255,7 +1255,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[86])
           elif event.text == groups[87]:
                   if event.from_user:
@@ -1265,7 +1265,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[87])
           elif event.text == groups[88]:
                   if event.from_user:
@@ -1275,7 +1275,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[88])
           elif event.text == groups[89]:
                   if event.from_user:
@@ -1285,7 +1285,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[89])
           elif event.text == groups[90]:
                   if event.from_user:
@@ -1295,7 +1295,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[90])
           elif event.text == groups[91]:
                   if event.from_user:
@@ -1305,7 +1305,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[91])
           elif event.text == groups[92]:
                   if event.from_user:
@@ -1315,7 +1315,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[92])
           elif event.text == groups[93]:
                   if event.from_user:
@@ -1325,7 +1325,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[93])
           elif event.text == groups[94]:
                   if event.from_user:
@@ -1335,7 +1335,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[94])
           elif event.text == groups[95]:
                   if event.from_user:
@@ -1345,7 +1345,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[95])
           elif event.text == groups[96]:
                   if event.from_user:
@@ -1355,7 +1355,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[96])
           elif event.text == groups[97]:
                   if event.from_user:
@@ -1365,7 +1365,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[97])
           elif event.text == groups[98]:
                   if event.from_user:
@@ -1375,7 +1375,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[98])
           elif event.text == groups[99]:
                   if event.from_user:
@@ -1385,7 +1385,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[99])
           elif event.text == groups[100]:
                   if event.from_user:
@@ -1395,7 +1395,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[100])
           elif event.text == groups[101]:
                   if event.from_user:
@@ -1405,7 +1405,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[101])
           elif event.text == groups[102]:
                   if event.from_user:
@@ -1415,7 +1415,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[102])
           elif event.text == groups[103]:
                   if event.from_user:
@@ -1425,7 +1425,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[103])
           elif event.text == groups[104]:
                   if event.from_user:
@@ -1435,7 +1435,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[104])
           elif event.text == groups[105]:
                   if event.from_user:
@@ -1445,7 +1445,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[105])
           elif event.text == groups[106]:
                   if event.from_user:
@@ -1455,7 +1455,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[106])
           elif event.text == groups[107]:
                   if event.from_user:
@@ -1465,7 +1465,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[107])
           elif event.text == groups[108]:
                   if event.from_user:
@@ -1475,7 +1475,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[108])
           elif event.text == groups[109]:
                   if event.from_user:
@@ -1485,7 +1485,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[109])
           elif event.text == groups[110]:
                   if event.from_user:
@@ -1495,7 +1495,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[110])
           elif event.text == groups[111]:
                   if event.from_user:
@@ -1505,7 +1505,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[111])
           elif event.text == groups[112]:
                   if event.from_user:
@@ -1515,7 +1515,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[112])
           elif event.text == groups[113]:
                   if event.from_user:
@@ -1525,7 +1525,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[113])
           elif event.text == groups[114]:
                   if event.from_user:
@@ -1535,7 +1535,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[114])
           elif event.text == groups[115]:
                   if event.from_user:
@@ -1545,7 +1545,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[115])
           elif event.text == groups[116]:
                   if event.from_user:
@@ -1555,7 +1555,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[116])
           elif event.text == groups[117]:
                   if event.from_user:
@@ -1565,7 +1565,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[117])
           elif event.text == groups[118]:
                   if event.from_user:
@@ -1575,7 +1575,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[118])
           elif event.text == groups[119]:
                   if event.from_user:
@@ -1585,7 +1585,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[119])
           elif event.text == groups[120]:
                   if event.from_user:
@@ -1595,7 +1595,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[120])
           elif event.text == groups[121]:
                   if event.from_user:
@@ -1605,7 +1605,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[121])
           elif event.text == groups[122]:
                   if event.from_user:
@@ -1615,7 +1615,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[122])
           elif event.text == groups[123]:
                   if event.from_user:
@@ -1625,7 +1625,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[123])
           elif event.text == groups[124]:
                   if event.from_user:
@@ -1635,7 +1635,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[124])
           elif event.text == groups[125]:
                   if event.from_user:
@@ -1645,7 +1645,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[125])
           elif event.text == groups[126]:
                   if event.from_user:
@@ -1655,7 +1655,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[126])
           elif event.text == groups[127]:
                   if event.from_user:
@@ -1665,7 +1665,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[127])
           elif event.text == groups[128]:
                   if event.from_user:
@@ -1675,7 +1675,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[128])
           elif event.text == groups[129]:
                   if event.from_user:
@@ -1685,7 +1685,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[129])
           elif event.text == groups[130]:
                   if event.from_user:
@@ -1695,7 +1695,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[130])
           elif event.text == groups[131]:
                   if event.from_user:
@@ -1705,7 +1705,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[131])
           elif event.text == groups[132]:
                   if event.from_user:
@@ -1715,7 +1715,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[132])
           elif event.text == groups[133]:
                   if event.from_user:
@@ -1725,7 +1725,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[133])
           elif event.text == groups[134]:
                   if event.from_user:
@@ -1735,7 +1735,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[134])
           elif event.text == groups[135]:
                   if event.from_user:
@@ -1745,7 +1745,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[135])
           elif event.text == groups[136]:
                   if event.from_user:
@@ -1755,7 +1755,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[136])
           elif event.text == groups[137]:
                   if event.from_user:
@@ -1765,7 +1765,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[137])
           elif event.text == groups[138]:
                   if event.from_user:
@@ -1775,7 +1775,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[138])
           elif event.text == groups[139]:
                   if event.from_user:
@@ -1785,7 +1785,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[139])
           elif event.text == groups[140]:
                   if event.from_user:
@@ -1795,7 +1795,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[140])
           elif event.text == groups[141]:
                   if event.from_user:
@@ -1805,7 +1805,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[141])
           elif event.text == groups[142]:
                   if event.from_user:
@@ -1815,7 +1815,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[142])
           elif event.text == groups[143]:
                   if event.from_user:
@@ -1825,7 +1825,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[143])
           elif event.text == groups[144]:
                   if event.from_user:
@@ -1835,7 +1835,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[144])
           elif event.text == groups[145]:
                   if event.from_user:
@@ -1845,7 +1845,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[145])
           elif event.text == groups[146]:
                   if event.from_user:
@@ -1855,7 +1855,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[146])
           elif event.text == groups[147]:
                   if event.from_user:
@@ -1865,7 +1865,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[147])
           elif event.text == groups[148]:
                   if event.from_user:
@@ -1875,7 +1875,7 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[148])
           elif event.text == groups[149]:
                   if event.from_user:
@@ -1885,13 +1885,13 @@ for event in longpoll.listen():
                                   message='Выберите день',
                                   keyboard=data.get_keyboard()
                           )
-                          with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
+                          with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'w') as f:
                                   f.write(groups[149])
           elif event.text == button_days[1]:
             try:
                 dat = button_days[1]
                 for ri in range(0, 149):
-                     with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                     with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                            if f.readline() == groups[ri]:
                                    temp = groups[ri]
                                    print(temp)
@@ -1906,7 +1906,7 @@ for event in longpoll.listen():
                      i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -1925,7 +1925,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[2]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -1940,7 +1940,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -1959,7 +1959,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[3]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -1974,7 +1974,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -1993,7 +1993,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[4]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2008,7 +2008,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2027,7 +2027,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[5]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2042,7 +2042,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2061,7 +2061,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[6]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2076,7 +2076,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2095,7 +2095,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[7]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2110,7 +2110,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2129,7 +2129,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[8]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2144,7 +2144,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2163,7 +2163,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[9]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2178,7 +2178,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2197,7 +2197,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[10]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2212,7 +2212,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2231,7 +2231,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[11]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2246,7 +2246,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2265,7 +2265,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[12]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2280,7 +2280,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2299,7 +2299,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[13]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2314,7 +2314,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,
@@ -2333,7 +2333,7 @@ for event in longpoll.listen():
             try:
                           dat = button_days[14]
                           for ri in range(0, 149):
-                              with open('//home//timur//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
+                              with open('//home//ubuntu//bot1//bo1//jsn//groups//' + user + '.txt', 'r') as f:
                                      if f.readline() == groups[ri]:
                                              temp = groups[ri]
                                              print(temp)
@@ -2348,7 +2348,7 @@ for event in longpoll.listen():
                           i = 1
             if event.from_user:
                 try:
-                    with open("//home//timur//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
+                    with open("//home//ubuntu//bot1//bo1//Rasp//" + dat + "_" + temp + ".txt", "r") as f:
                         m = f.readlines()
                     vk.messages.send(
                          user_id=event.user_id,

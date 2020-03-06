@@ -1,6 +1,5 @@
 from datetime import datetime
 from selenium import webdriver
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import string
 
 temp = False
@@ -14,10 +13,7 @@ right = ''
 # while True:
     # if temp == False and datetime.now().strftime('%T') == '16:22:00':
 temp = True
-options = webdriver.ChromeOptions()
-options.add_argument('headless')
-options.add_argument('window-size=1920x935')
-driver = webdriver.Chrome('/home/ubuntu/bot1/bo1/jsn/chromedriver', chrome_options=options)
+driver = webdriver.Chrome('/home/ubuntu/bot1/bo1/jsn/chromedriver')
 driver.get('http://uc.osu.ru/asd.php')
 date_all = {
     1: 'v1', 2: 'v2', 3: 'v3', 4: 'v4', 5: 'v5', 6: 'v6', 7: 'v7', 8: 'v8', 9: 'v9', 10: 'v10',

@@ -13,10 +13,6 @@ right = ''
 # while True:
     # if temp == False and datetime.now().strftime('%T') == '16:22:00':
 temp = True
-chrome_options = Options()
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome('/home/ubuntu/bot1/bo1/jsn/chromedriver',chrome_options=chrome_options)
 driver.get('http://uc.osu.ru/asd.php')
 date_all = {
